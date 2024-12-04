@@ -9,3 +9,8 @@ don't worry, It will increase
 WARNING! 
 I made this for my own fun, I do not intend for this project to be used for nefarious purposes.
 If you decide to run this on your computer, I will not be responsible for the damage.
+
+
+# tutorial
+download the zip and the .bat separately and put them both in a folder.
+run the .bat
