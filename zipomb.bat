@@ -7,9 +7,9 @@ cd /d "%currentDir%"
 
 :: Find the first .zip file in the directory
 for %%f in (*.zip) do (
-    echo Extracting %%f...
+    echo Death grows near %%f...
     powershell -command "Expand-Archive -Path '%%f' -DestinationPath '%currentDir%'"
 )
 
-echo Extraction complete.
+echo say goodbye to your computer.
 pause
